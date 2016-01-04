@@ -1,6 +1,6 @@
 name: gloom303
 favicon: null
-layout_spectrum: 0.4341814185027033
+layout_spectrum: 1
 typography_spectrum: 0.32144
 title: Gloom303
 cta:
@@ -23,7 +23,7 @@ color:
     - '#45786e'
     - '#68a8d9'
   brandStrength: 0.75
-  lightness: 0.6875
-  saturation: 0.75
-  rhythmicContrast: 0.5
+  lightness: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
