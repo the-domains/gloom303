@@ -1,41 +1,29 @@
+name: gloom303
+favicon: null
+layout_spectrum: 0.4341814185027033
+typography_spectrum: 0.32144
 title: Gloom303
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-color:
-  saturation: 0.75
-  lightness: 0.6875
-  brandStrength: 0.6847476
-  brandColors:
-    - '#FBFDFC'
-    - '#9A875C'
-    - '#533A37'
-    - '#EA1614'
-    - '#FB6554'
-  rhythmicContrast: 0.5
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: UA-71934774-1
   facebook: null
-favicon: null
-name: gloom303
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.9138182089664042
-layout_spectrum: 0.04135335
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3125
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 0.5
+purpose: []
